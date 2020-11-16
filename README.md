@@ -1,3 +1,9 @@
+**This repository has been archived since the forked stern can now be installed from homebrew-core!:tada:**
+
+```
+brew install stern
+```
+
 # A Homebrew formula for stern
 
 Stern allows you to tail multiple pods on Kubernetes and multiple containers within the pod. Each result is color coded for quicker debugging.
